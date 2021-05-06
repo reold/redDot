@@ -24,3 +24,5 @@ require()
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+###### Written with ♥ from India. Report problems @redicrafty on twitter.
